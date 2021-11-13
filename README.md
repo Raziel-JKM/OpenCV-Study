@@ -5,6 +5,8 @@
 
 스터디원 : 
 
+교재: OpenCV(황선규) / OpenCV(이세우)[[git](https://github.com/dltpdn/opencv-python_edu)]
+
 2021.10.30 ~ 
 
 
